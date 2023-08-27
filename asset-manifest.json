@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/YoutubeLite/static/css/main.86ca51cf.css",
-    "main.js": "/YoutubeLite/static/js/main.f55c8aa2.js",
+    "main.css": "/YoutubeLite/static/css/main.2fb04352.css",
+    "main.js": "/YoutubeLite/static/js/main.1a87fc57.js",
     "static/media/yt-logo-mobile.png": "/YoutubeLite/static/media/yt-logo-mobile.7e67cd801ac3213983ff.png",
     "static/media/yt-logo.png": "/YoutubeLite/static/media/yt-logo.d6505fbc930734374cea.png",
-    "index.html": "/YoutubeLite/index.html",
-    "main.86ca51cf.css.map": "/YoutubeLite/static/css/main.86ca51cf.css.map",
-    "main.f55c8aa2.js.map": "/YoutubeLite/static/js/main.f55c8aa2.js.map"
+    "index.html": "/YoutubeLite/index.html"
   },
   "entrypoints": [
-    "static/css/main.86ca51cf.css",
-    "static/js/main.f55c8aa2.js"
+    "static/css/main.2fb04352.css",
+    "static/js/main.1a87fc57.js"
   ]
 }
